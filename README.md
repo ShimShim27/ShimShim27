@@ -27,7 +27,8 @@
 ✅ Native Android Development <br/>
 ✅ Creating backend using NodeJS <br/>
 ✅ Knowledge of SQLite, MySQL and Firestore <br/>
-✅ Basic github knowledge <br/><br/>
+✅ Basic github knowledge <br/>
+✅ Playstore <br/><br/>
 
 * **Other** <br/>
 ✅ Basic Photoshop <br/>
