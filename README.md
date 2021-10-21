@@ -22,16 +22,3 @@
 * **Python** <br/><img src="https://via.placeholder.com/60x10/d8fc62?text=+"/> <br/><br/>
 
 
-## 👨‍🏭 Experiences
-* **Relevant** <br/>
-✅ Native Android Development <br/>
-✅ Creating backend using NodeJS <br/>
-✅ Knowledge of SQLite, MySQL and Firestore <br/>
-✅ Basic github knowledge <br/>
-✅ Playstore <br/><br/>
-
-* **Other** <br/>
-✅ Basic Photoshop <br/>
-😐 Telegram Bots (needs re-learning) <br/>
-
-
