@@ -10,15 +10,6 @@
   
 <p/> 
 
-<br/>
 
-
-## 💻 Programming Skills
-
-* **Kotlin** <br/><img src="https://via.placeholder.com/200x10/c162fc?text=+"/> <br/> 
-* **Java** <br/><img src="https://via.placeholder.com/190x10/f89820?text=+"/> <br/>
-* **JavaScript** <br/><img src="https://via.placeholder.com/150x10/f2b65c?text=+"/> <br/>
-* **SQL** <br/><img src="https://via.placeholder.com/70x10/62adfc?text=+"/> <br/>
-* **Python** <br/><img src="https://via.placeholder.com/60x10/d8fc62?text=+"/> <br/><br/>
 
 
