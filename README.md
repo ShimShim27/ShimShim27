@@ -4,7 +4,7 @@
   <samp>
        Nothing in here 😴 <br/>
        Just normal stuffs ... <br/>
-    💬 Message me at dogshim27@gmail.com 💬
+   
      
   </samp>
   
